@@ -1,0 +1,69 @@
+@media (min-width: 576px)
+{
+    .principal{
+        background-color: red;
+    }
+}
+
+@media (min-width: 768px)
+{
+    .principal{
+        background-color: blue;
+    }
+}
+
+@media (min-width: 992px)
+{
+    .principal{
+        background-color: green;
+    }
+}
+
+@media (min-width: 1200px)
+{
+    .principal{
+        background-color: grey;
+    }
+}
+
+@media (min-width: 1400px)
+{
+    .principal{
+        background-color: purple;
+    }
+}
+
+@media (min-width: 576px)
+{
+    .images{
+        background-image: url(https://wallpaper4k.com.br/wp-content/uploads/2022/10/wallpapers-aesthetic-em-4k-para-pc-e-celular-52.png);
+    }
+}
+
+@media (min-width: 768px)
+{
+    .images{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJI3knM5POATe84cv8EIDI6jNFlqu_rkLiCTUawgHRJ2XovrfYWS2m5CJP4GExAnFMP8&usqp=CAU);
+    }
+}
+
+@media (min-width: 992px)
+{
+    .images{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_2L-FinrnySRdZeaiVmjg7AzAZq03E5eMLg&usqp=CAU);
+    }
+}
+
+@media (min-width: 1200px)
+{
+    .images{
+        background-image: url(https://www.showmetech.com.br/wp-content/uploads//2017/01/outrun_wallpaper__10_-2017-01-25-0516-1920x1024.jpg);
+    }
+}
+
+@media (min-width: 1400px)
+{
+    .images{
+        background-image: url(https://c4.wallpaperflare.com/wallpaper/108/140/869/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-thumb.jpg);
+    }
+}
